@@ -1,0 +1,13 @@
+{
+    "printWidth": 150,
+	"tabWidth": 4,
+	"singleQuote": false, 
+	"bracketSpacing": false,
+	"htmlWhitespaceSensitivity": "ignore",
+	"overrides": [
+		{
+		"files": ".prettierrc",
+		"options": { "parser": "json" }
+		}
+	]
+}
